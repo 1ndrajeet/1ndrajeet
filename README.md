@@ -59,7 +59,7 @@ My commits are my heartbeat. Watch the rhythm:
 
 
 ### Top Languages
-![1ndrajeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![1ndrajeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=gotham&show_icons=true)
 
 
 
