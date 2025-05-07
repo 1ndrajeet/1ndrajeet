@@ -1,4 +1,4 @@
-# 🌌 **1NDRAJEET** | *Code. Disrupt. Conquer.*  
+# 🌌 **1NDRAJEET** | *Code. Disrupt. Conquer.*
 **Full-Stack Titan** | **Tech Visionary** | **Industry Disruptor**  
 [1ndrajeet.is-a.dev](https://1ndrajeet.is-a.dev)
 
@@ -11,7 +11,7 @@ Expectations? I shatter them. Timelines? I outpace them. Ready to craft somethin
 ---
 
 ## 🛠️ **Tech Arsenal**  
-Tools bend to my will, forging **scalable, future-proof systems**:  
+Tools bend to my will, forging **scalable, future-proof systems**:
 
 - **Languages**: JavaScript, TypeScript, Python, Java  
 - **Frontend**: React, Next.js, Tailwind CSS, React Native  
@@ -23,7 +23,7 @@ Tools bend to my will, forging **scalable, future-proof systems**:
 ---
 
 ## 🚀 **Signature Creations**  
-My projects don’t just solve—they **revolutionize**:  
+My projects don’t just solve—they **revolutionize**:
 
 - **[TestForge](https://testforge.software)**  
   *Transforming exam management* for **50,000+ students** across **350+ institutions**, obliterating outdated systems.  
@@ -48,19 +48,20 @@ My projects don’t just solve—they **revolutionize**:
 ## 📊 **GitHub Pulse**  
 My commits are my heartbeat. Watch the rhythm:
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1ndrajeet&theme=radical&show_icons=true&count_private=true&hide_border=true)  
+<div align="center" style="display: flex; overflow:scroll; gap:2;">
+  <img src="https://github-readme-stats.vercel.app/api?username=1ndrajeet&theme=react&hide_border=true&show_icons=true&count_private=true" alt="1ndrajeet's GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=react&hide_border=true&layout=compact" width="45%" alt="1ndrajeet's Most Used Languages"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ndrajeet&theme=react&hide_border=true" alt="1ndrajeet's GitHub Streak"/>
+</div>
 
-### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)  
+<br/>
 
-### GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1ndrajeet&theme=react&hide_border=true" alt="1ndrajeet's Streak"/>
+### Contribution Graph  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)
 
-### Top Languages
+
+### Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=radical&hide_border=true&count_private=true)
-
-
 
 *Driven. Unyielding. Legendary.*
 
@@ -69,13 +70,13 @@ My commits are my heartbeat. Watch the rhythm:
 ## 🌐 **Link with the Visionary**  
 - [LinkedIn](https://www.linkedin.com/in/1ndrajeet) – Fuel ideas that reshape the world.  
 - [GitHub](https://github.com/1ndrajeet) – Explore the code driving tomorrow.  
-- [Portfolio](https://1ndrajeet.is-a.dev) – Witness my vision in action.  
+- [Portfolio](https://1ndrajeet.is-a.dev) – Witness my vision in action.
 
 ---
 
 ## 💥 **Who Is 1ndrajeet?**  
 I’m the force that **defies limits**, the mind that **rewrites rules**, and the coder who **delivers when it counts**. Mediocrity fears me. Excellence follows me.
 
-*"The future waits for no one. My code shapes it."*  
+*"The future waits for no one. My code shapes it."*
 
 ⚡ **Let’s forge something eternal.** 🔥
