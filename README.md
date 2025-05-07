@@ -49,7 +49,8 @@ My projects don’t just solve—they **revolutionize**:
 My commits are my heartbeat. Watch the rhythm:
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1ndrajeet&theme=radical&show_icons=true&count_private=true&hide_border=true)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1ndrajeet&theme=react&hide_border=true" alt="1ndrajeet's Streak"/>
+
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)  
