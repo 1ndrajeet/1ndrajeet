@@ -55,7 +55,7 @@ My commits are my heartbeat. Watch the rhythm:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)  
 
 ### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)(https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=1ndrajeet)
 
 
 ### Top Languages
