@@ -55,7 +55,7 @@ My commits are my heartbeat. Watch the rhythm:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)  
 
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1ndrajeet&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1ndrajeet&theme=radical)(https://git.io/streak-stats)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=radical&hide_border=true&count_private=true)
