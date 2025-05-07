@@ -56,10 +56,10 @@ My commits are my heartbeat. Watch the rhythm:
 
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1ndrajeet&theme=gotham)
-
+![1ndrajeet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ndrajeet&theme=gotham&hide_border=false)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=gotham&hide_border=true&count_private=true)
+![1ndrajeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 
 
