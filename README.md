@@ -49,17 +49,17 @@ My projects don’t just solve—they **revolutionize**:
 My commits are my heartbeat. Watch the rhythm:
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1ndrajeet&theme=radical&show_icons=true&count_private=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1ndrajeet&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true)  
 
 ### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=dracula&hide_border=true&area=true)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1ndrajeet&theme=great-gatsby&hide_border=true&area=true)  
 
 ### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=1ndrajeet)
+![GitHub Streak](https://streak-stats.demolab.com/?user=1ndrajeet&theme=great-gatsby)
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ndrajeet&theme=great-gatsby&hide_border=true&count_private=true)
 
 
 
