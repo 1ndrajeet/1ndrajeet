@@ -1,4 +1,4 @@
-# Andy Dufresne 
+# Omkar Kulkarni (aka 1ndrajeet)
 
 > *I stay awake long enough and eventually the bugs start confessing themselves.*
 
